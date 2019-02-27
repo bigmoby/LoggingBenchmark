@@ -1,6 +1,6 @@
 enablePlugins(JmhPlugin)
 
-name := "TestString"
+name := "LoggingBenchmark"
 
 version := "0.1"
 
